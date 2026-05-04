@@ -1,1 +1,0 @@
-This project is a responsive real estate landing page designed to showcase property listings, provide easy navigation to explore homes, contact us, and learn more about our services. Built with modern HTML and CSS, it offers a sleek, user-friendly experience for potential buyers.
